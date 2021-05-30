@@ -24,13 +24,13 @@ When the data is ready I will then want to apply statistical techniques to analy
 
 ## Project Scenario
 
-###Module 1: Data Collection
+### Module 1: Data Collection
  
 Collecting Data Using APIs
 Collecting Data Using Webscraping
 Exploring Data
 
-###Module 2: Data Wrangling
+### Module 2: Data Wrangling
  
 Finding Missing Values
 Determine Missing Values
@@ -38,21 +38,21 @@ Finding Duplicates
 Removing Duplicates
 Normalizing Data
 
-###Module 3: Exploratory Data Analysis
+### Module 3: Exploratory Data Analysis
 Distribution
 Outliers
 Correlation
 
-###Module 4: Data Visualization
+### Module 4: Data Visualization
 
 Visualizing Distribution of Data
 Relationship
 Composition
 Comparison
 
-###Module 5: Dashboard
+### Module 5: Dashboard
 Creation
 Dashboards
 
-###Module 6: Presentation of Findings
+### Module 6: Presentation of Findings
 Final Presentation
