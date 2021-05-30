@@ -26,33 +26,33 @@ When the data is ready I will then want to apply statistical techniques to analy
 
 ### Module 1: Data Collection
  
-Collecting Data Using APIs
-Collecting Data Using Webscraping
-Exploring Data
+* Collecting Data Using APIs
+* Collecting Data Using Webscraping
+* Exploring Data
 
 ### Module 2: Data Wrangling
  
-Finding Missing Values
-Determine Missing Values
-Finding Duplicates
-Removing Duplicates
-Normalizing Data
+* Finding Missing Values
+* Determine Missing Values
+* Finding Duplicates
+* Removing Duplicates
+* Normalizing Data
 
 ### Module 3: Exploratory Data Analysis
-Distribution
-Outliers
-Correlation
+* Distribution
+* Outliers
+* Correlation
 
 ### Module 4: Data Visualization
 
-Visualizing Distribution of Data
-Relationship
-Composition
-Comparison
+* Visualizing Distribution of Data
+* Relationship
+* Composition
+* Comparison
 
 ### Module 5: Dashboard
-Creation
-Dashboards
+* Creation
+* Dashboards
 
 ### Module 6: Presentation of Findings
-Final Presentation
+* Final Presentation
