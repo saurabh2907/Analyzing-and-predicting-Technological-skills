@@ -20,3 +20,39 @@ Once I have collected enough data, I will begin analyzing the data and identify 
 Once this is completed, I will make that data ready for analysis using data wrangling techniques. 
  
 When the data is ready I will then want to apply statistical techniques to analyze the data.  Then bring all of your information together by using  IBM Cognos Analytics to create your dashboard. And finally, show off storytelling skills by sharing my findings in a presentation.
+
+
+## Project Scenario
+
+###Module 1: Data Collection
+ 
+Collecting Data Using APIs
+Collecting Data Using Webscraping
+Exploring Data
+
+###Module 2: Data Wrangling
+ 
+Finding Missing Values
+Determine Missing Values
+Finding Duplicates
+Removing Duplicates
+Normalizing Data
+
+###Module 3: Exploratory Data Analysis
+Distribution
+Outliers
+Correlation
+
+###Module 4: Data Visualization
+
+Visualizing Distribution of Data
+Relationship
+Composition
+Comparison
+
+###Module 5: Dashboard
+Creation
+Dashboards
+
+###Module 6: Presentation of Findings
+Final Presentation
